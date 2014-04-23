@@ -1,4 +1,4 @@
-Recursion, Sprin 2014, CSULB
+Recursion, Spring 2014, CSULB
 
 A happy number is a positive integer for which the sum of the squares of the digits eventually leads to 1.
 
@@ -34,4 +34,4 @@ Requirements:
 
 3) Report back to the user that the input number is Happy, or Not Happy. Determine a Not Happy number the first time the sequence begins to repeat.
 
-4) Involve recursion.
+4) Use recursion!
